@@ -54,7 +54,7 @@
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "تحرير عصابة شعار",
+ 	 	 	 	 	"trans": "تحرير شعار العصابة",
  	 	 	 	 	"eng": "Edit Gang Motto"
  	 	 	 	}
  	 	 	},
@@ -65,7 +65,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"level": {
- 	 	 	 	"trans": "مستوى عصابة",
+ 	 	 	 	"trans": "مستوى العصابة",
  	 	 	 	"eng": "Gang Level"
  	 	 	},
  	 	 	"resource": {
@@ -77,7 +77,7 @@
  	 	 	 	"eng": "funding"
  	 	 	},
  	 	 	"memberCount": {
- 	 	 	 	"trans": "أفراد",
+ 	 	 	 	"trans": "الأفراد",
  	 	 	 	"eng": "members"
  	 	 	},
  	 	 	"occupationPoint": {
@@ -88,7 +88,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"nextUpkeepDate"
  	 	 	 	],
- 	 	 	 	"trans": "تاريخ الصيانة التالي: ${nextUpkeepDate}",
+ 	 	 	 	"trans": "موعد الصيانة التالية: ${nextUpkeepDate}",
  	 	 	 	"eng": "Next upkeep Date: ${nextUpkeepDate}"
  	 	 	},
  	 	 	"insufficientError": {
@@ -96,11 +96,11 @@
  	 	 	 	"eng": "resource critical"
  	 	 	},
  	 	 	"insufficientFound": {
- 	 	 	 	"trans": "رصيد غير كاف",
+ 	 	 	 	"trans": "الرصيد غير كاف",
  	 	 	 	"eng": "Insufficient Funds"
  	 	 	},
  	 	 	"insufficientResource": {
- 	 	 	 	"trans": "عدم كفاية الموارد",
+ 	 	 	 	"trans": "الموارد غير كافية",
  	 	 	 	"eng": "Insufficient Resources"
  	 	 	},
  	 	 	"occupation": {
@@ -110,7 +110,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"members": {
- 	 	 	 	"trans": "أعضاء",
+ 	 	 	 	"trans": "الأعضاء",
  	 	 	 	"eng": "Members"
  	 	 	}
  	 	},
@@ -120,7 +120,7 @@
  	 	 	 	"eng": "Community Content"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "هذا المحتوى يساهم به المجتمع. انقر هنا للمساهمة المحتوى الخاص بك.",
+ 	 	 	 	"trans": "هذا المحتوى يساهم به المجتمع. انقر هنا للمساهمة بالمحتوى الخاص بك.",
  	 	 	 	"eng": "This content is contributed by the community. click here to contribute your own content."
  	 	 	}
  	 	},
@@ -128,11 +128,11 @@
  	 	 	"colors": {
  	 	 	 	"win": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "فك التشفير ناجحة",
+ 	 	 	 	 	 	"trans": "نجح فك التشفير",
  	 	 	 	 	 	"eng": "Decryption successful"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "معالجة",
+ 	 	 	 	 	 	"trans": "جار المعالجة",
  	 	 	 	 	 	"eng": "processing"
  	 	 	 	 	}
  	 	 	 	},
@@ -160,7 +160,7 @@
  	 	 	 	 	 	"eng": "Decryption failed"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "انقر فوق تسلسل اللون الصحيح لفتح",
+ 	 	 	 	 	 	"trans": "انقر فوق تسلسل اللون الصحيح للفتح",
  	 	 	 	 	 	"eng": "Click on the correct color sequence to unlock"
  	 	 	 	 	},
  	 	 	 	 	"button": {
@@ -174,45 +174,45 @@
  	 	},
  	 	"supportUkraine": {
  	 	 	"description": {
- 	 	 	 	"trans": "يعاني أشخاص من أوكرانيا وروسيا والعالم بأسره لأن طموح رجل واحد. \\ N جعل الحب استغلال، وليس الحرب.",
+ 	 	 	 	"trans": "يعاني أشخاص من أوكرانيا وروسيا والعالم بأسره بسبب طموح رجل واحد. \\ N جعل الحب استغلال، وليس الحرب.",
  	 	 	 	"eng": "People of Ukraine, Russia and the whole world are suffering because one man's ambition.\\n Make love exploit, not war."
  	 	 	}
  	 	},
  	 	"bank": {
  	 	 	"balance": {
  	 	 	 	"trans": "الرصيد",
- 	 	 	 	"eng": "balance"
+ 	 	 	 	"eng": ‏"balance"‏
  	 	 	},
  	 	 	"deposit": {
  	 	 	 	"trans": "الوديعة",
  	 	 	 	"eng": "Deposit"
  	 	 	},
  	 	 	"depositDesc": {
- 	 	 	 	"trans": "وضع البيتكوين في البنك",
+ 	 	 	 	"trans": "ضع البيتكوين في البنك",
  	 	 	 	"eng": "Put Bitcoins into bank"
  	 	 	},
  	 	 	"withdraw": {
- 	 	 	 	"trans": "ينسحب",
+ 	 	 	 	"trans": "سحب",
  	 	 	 	"eng": "Withdraw"
  	 	 	},
  	 	 	"withdrawDesc": {
- 	 	 	 	"trans": "تأخذ بيتكوين من البنك",
+ 	 	 	 	"trans": "خذ بيتكوين من البنك",
  	 	 	 	"eng": "Take Bitcoins out of bank"
  	 	 	},
  	 	 	"putItemToVault": {
- 	 	 	 	"trans": "إيداع البند",
+ 	 	 	 	"trans": "إيداع العنصر",
  	 	 	 	"eng": "Deposit Item"
  	 	 	},
  	 	 	"putItemToVaultDesc": {
- 	 	 	 	"trans": "وضع العناصر في قبو الخاص بك",
+ 	 	 	 	"trans": "وضع العناصر في القبو الخاص بك",
  	 	 	 	"eng": "Put items into your vault"
  	 	 	},
  	 	 	"takeItemFromVault": {
- 	 	 	 	"trans": "سحب البند",
+ 	 	 	 	"trans": "سحب العنصر",
  	 	 	 	"eng": "Withdraw Item"
  	 	 	},
  	 	 	"takeItemFromVaultDesc": {
- 	 	 	 	"trans": "خذ العناصر من قبو الخاص بك",
+ 	 	 	 	"trans": "خذ العناصر من القبو الخاص بك",
  	 	 	 	"eng": "Take items out from your vault"
  	 	 	},
  	 	 	"upgradeSlot": {
@@ -226,7 +226,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"upgradeToSlot"
  	 	 	 	],
- 	 	 	 	"trans": "زيادة كمية الأقصى من العناصر التي يمكنك تخزينها في قبو إلى ${upgradeToSlot}",
+ 	 	 	 	"trans": "زيادة الحد الأقصى من العناصر التي يمكنك تخزينها في قبو إلى ${upgradeToSlot}",
  	 	 	 	"eng": "Increase the max amount of items you can store in vault to ${upgradeToSlot}"
  	 	 	},
  	 	 	"itemLocked": {
@@ -239,7 +239,7 @@
  	 	 	 	 	"eng": "How many would you like to put in the vault?"
  	 	 	 	},
  	 	 	 	"selectWithdrawItem": {
- 	 	 	 	 	"trans": "كم تريد الانسحاب من البنك؟",
+ 	 	 	 	 	"trans": "كم تريد السحب من البنك؟",
  	 	 	 	 	"eng": "How many would you like to withdraw from the bank?"
  	 	 	 	},
  	 	 	 	"selectDeposit": {
@@ -247,13 +247,13 @@
  	 	 	 	 	"eng": "How much would you like to deposit?"
  	 	 	 	},
  	 	 	 	"selectWithdraw": {
- 	 	 	 	 	"trans": "كم تريد الانسحاب؟",
+ 	 	 	 	 	"trans": "كم تريد السحب؟",
  	 	 	 	 	"eng": "How much would you like to withdraw?"
  	 	 	 	}
  	 	 	},
  	 	 	"upgradeVaultModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "ترقية قبو",
+ 	 	 	 	 	"trans": "ترقية القبو",
  	 	 	 	 	"eng": "Upgrade Vault"
  	 	 	 	},
  	 	 	 	"confirm": {
@@ -282,7 +282,7 @@
  	 	 	 	},
  	 	 	 	"tertiary": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "التدمير.",
+ 	 	 	 	 	 	"trans": "تدمير.",
  	 	 	 	 	 	"eng": "Destruct."
  	 	 	 	 	}
  	 	 	 	}
@@ -294,11 +294,11 @@
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "رمز دبوس مطلوب لفتح",
+ 	 	 	 	"trans": "رمز PIN مطلوب لفتح",
  	 	 	 	"eng": "Pin code required to unlock"
  	 	 	},
  	 	 	"inputLabel": {
- 	 	 	 	"trans": "رمز دبوس",
+ 	 	 	 	"trans": "رمز PIN",
  	 	 	 	"eng": "Pin Code"
  	 	 	},
  	 	 	"inputPlaceholder": {
@@ -308,7 +308,7 @@
  	 	},
  	 	"chat": {
  	 	 	"reconnecting": {
- 	 	 	 	"trans": "إعادة تأسيس الاتصال",
+ 	 	 	 	"trans": "إعادة انشاء الاتصال",
  	 	 	 	"eng": "Reestablishing connection"
  	 	 	},
  	 	 	"notAtBottom": {
@@ -323,15 +323,15 @@
  	 	 	 	"eng": "Replying to ${playerName}"
  	 	 	},
  	 	 	"linksNotAllowed": {
- 	 	 	 	"trans": "لا يسمح الروابط",
+ 	 	 	 	"trans": "لا يسمح بالروابط",
  	 	 	 	"eng": "Links are not allowed"
  	 	 	},
  	 	 	"spamBlock": {
- 	 	 	 	"trans": "من فضلك لا ترسل رسالة لا معنى لها، سيتم صامتم الرسائل غير المرغوب فيها.",
- 	 	 	 	"eng": "Please do not send meaningless message, spams will be muted."
+ 	 	 	 	"trans": "من فضلك لا ترسل رسالة لا معنى لها، سيتم كتم الرسائل غير المرغوب فيها.",
+ 	 	 	 	"eng": ‏"Please do not send meaningless message, spams will be muted."‏
  	 	 	},
  	 	 	"repeatBlock": {
- 	 	 	 	"trans": "من فضلك لا ترسل نفس الرسالة مرارا وتكرارا، سيتم صامت الرسائل غير المرغوب فيها.",
+ 	 	 	 	"trans": "من فضلك لا ترسل نفس الرسالة مرارا وتكرارا، سيتم كتم الرسائل غير المرغوب فيها.",
  	 	 	 	"eng": "Please do not send the same message repeatedly, spams will be muted."
  	 	 	},
  	 	 	"shortChatBlock": {
